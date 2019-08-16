@@ -3,7 +3,7 @@ Example code to produce action density plots from StatsBomb event data using R.
 
 These plots were adapted from [@danzn1](https://twitter.com/danzn1/status/1161380572087947265?s=20).
 
-This code will produce a density plot like these:
+This code will produce density plots like these:
 ![alt text](https://raw.githubusercontent.com/etmckinley/Action-Density/master/Lionel%20Andre%CC%81s%20Messi%20Cuccittini-seasons-all.png "Messi Density")
 
 ![alt text](https://raw.githubusercontent.com/etmckinley/Action-Density/master/Carles%20Puyol%20i%20Saforcada-seasons-all.png "Puyol Density")
